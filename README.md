@@ -1,3 +1,5 @@
+Sigue los siguientes pasos para descargar y ejecutar el proyecto:
+
 En Windows:
 
 ```
