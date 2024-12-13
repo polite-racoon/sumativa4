@@ -6,7 +6,7 @@ cd sumativa4
 gradle.bat run
 ```
 
-En Linux:
+En Linux y macOS:
 
 ```
 git clone https://github.com/polite-racoon/sumativa4.git
